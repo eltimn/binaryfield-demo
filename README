@@ -1,0 +1,1 @@
+A Lift-Mongo app that saves a image file in the db and serves it via InMemoryResponse
